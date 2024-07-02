@@ -1,7 +1,7 @@
 import os, sys
 import pandas as pd
 
-path = './Dashboard/result.csv' #os.getcwd() + 
+path = os.getcwd() + './Dashboard/result.csv'
 
 def result_true():
     return os.path.exists(path)
