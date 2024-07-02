@@ -62,7 +62,6 @@ pyrsistent==0.19.3
 PySocks==1.7.1
 python-dotenv==0.21.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==305.1
 PyYAML==6.0.1
 regex==2023.12.25
 requests==2.31.0
